@@ -1,8 +1,9 @@
 # KOL
 Korean Locale Setup Script
 
-## 지원 OS
+칼리 리눅스, 우분투, 라즈베리파이에서 한국어 환경을 자동으로 설정하는 스크립트입니다.
 
+## 지원 OS
 - **Kali Linux** (모든 버전)
 - **Ubuntu** (18.04 이상)
 - **Raspberry Pi OS** (Raspbian)
